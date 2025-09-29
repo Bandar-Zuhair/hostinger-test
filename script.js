@@ -156,20 +156,20 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
 const colorVariants = {
     black: {
         images: [
-            'https://headphonezoo.com/wp-content/themes/headphonezonn-theme-1/foldable-p47-wireless-headphone/foldable-p47-wireless-headphone-1.webp',
-            'https://headphonezoo.com/wp-content/themes/headphonezonn-theme-1/foldable-p47-wireless-headphone/foldable-p47-wireless-headphone-2.webp',
-            'https://headphonezoo.com/wp-content/themes/headphonezonn-theme-1/foldable-p47-wireless-headphone/foldable-p47-wireless-headphone-3.webp',
-            'https://headphonezoo.com/wp-content/themes/headphonezonn-theme-1/foldable-p47-wireless-headphone/foldable-p47-wireless-headphone-1.webp',
-            'https://headphonezoo.com/wp-content/themes/headphonezonn-theme-1/foldable-p47-wireless-headphone/foldable-p47-wireless-headphone-1.webp'
+            'https://headphonezoo.com/wp-content/themes/headphonezoo-theme-1/foldable-p47-wireless-headphone/foldable-p47-wireless-headphone-1.webp',
+            'https://headphonezoo.com/wp-content/themes/headphonezoo-theme-1/foldable-p47-wireless-headphone/foldable-p47-wireless-headphone-2.webp',
+            'https://headphonezoo.com/wp-content/themes/headphonezoo-theme-1/foldable-p47-wireless-headphone/foldable-p47-wireless-headphone-3.webp',
+            'https://headphonezoo.com/wp-content/themes/headphonezoo-theme-1/foldable-p47-wireless-headphone/foldable-p47-wireless-headphone-1.webp',
+            'https://headphonezoo.com/wp-content/themes/headphonezoo-theme-1/foldable-p47-wireless-headphone/foldable-p47-wireless-headphone-1.webp'
         ]
     },
     white: {
         images: [
-            'https://headphonezoo.com/wp-content/themes/headphonezonn-theme-1/foldable-p47-wireless-headphone/foldable-p47-wireless-headphone-1.webp',
-            'https://headphonezoo.com/wp-content/themes/headphonezonn-theme-1/foldable-p47-wireless-headphone/foldable-p47-wireless-headphone-1.webp',
-            'https://headphonezoo.com/wp-content/themes/headphonezonn-theme-1/foldable-p47-wireless-headphone/foldable-p47-wireless-headphone-1.webp',
-            'https://headphonezoo.com/wp-content/themes/headphonezonn-theme-1/foldable-p47-wireless-headphone/foldable-p47-wireless-headphone-1.webp',
-            'https://headphonezoo.com/wp-content/themes/headphonezonn-theme-1/foldable-p47-wireless-headphone/foldable-p47-wireless-headphone-1.webp'
+            'https://headphonezoo.com/wp-content/themes/headphonezoo-theme-1/foldable-p47-wireless-headphone/foldable-p47-wireless-headphone-1.webp',
+            'https://headphonezoo.com/wp-content/themes/headphonezoo-theme-1/foldable-p47-wireless-headphone/foldable-p47-wireless-headphone-1.webp',
+            'https://headphonezoo.com/wp-content/themes/headphonezoo-theme-1/foldable-p47-wireless-headphone/foldable-p47-wireless-headphone-1.webp',
+            'https://headphonezoo.com/wp-content/themes/headphonezoo-theme-1/foldable-p47-wireless-headphone/foldable-p47-wireless-headphone-1.webp',
+            'https://headphonezoo.com/wp-content/themes/headphonezoo-theme-1/foldable-p47-wireless-headphone/foldable-p47-wireless-headphone-1.webp'
         ]
     },
 };
